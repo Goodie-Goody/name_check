@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+redis
+aiocron
+sentence-transformers
+scikit-learn
+sqlalchemy
+asyncpg
+python-dotenv
+pydantic
+fastapi-limiter
+psycopg2-binary
+apscheduler
+httpx
+asgi-lifespan
+pytest
+pytest-asyncio
